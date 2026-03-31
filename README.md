@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Hudson Evans!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I’m a full-time student majoring in Cybersecurity while also working two jobs. I like to stay active, so I spend a lot of time working out, riding the Peloton, and playing golf. In my free time, I enjoy watching movies and sports, traveling, and just being outdoors.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"If you fail to plan, you plan to fail!" - Benjamin Franklin _
